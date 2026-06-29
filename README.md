@@ -12,4 +12,15 @@ Console-based C++ program with Menu:
 Auto calculates: Total, Percentage, Grade, Pass/Fail
 
 ## PF Concepts Used
+- Arrays & 2D Arrays: `string names[100]; int marks[100][5];`
+- Functions: `addStudent()`, `displayStudents()`, `searchStudent()`, `saveToFile()`
+- File Handling: `fstream` for `students.txt`
+- Structs, Loops, Switch, If-Else
+
+## How to Run
+1. Open `main.cpp` in Code::Blocks
+2. Build & Run
+
+## Submitted
+Date: 1 July 2026 | Demo: 2 July 2026
 
